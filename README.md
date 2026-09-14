@@ -26,6 +26,7 @@ The design is based on the work from [Handj on Dribbble](https://dribbble.com/sh
 
 ## What's included
 
+- **`dashboards/dashboard_maison_2026.yaml`** — Dashboard complet Rez-de-chaussée (RDC) avec 5 sous-vues dédiées (Salon, Cuisine, Salle à manger, Entrée, Chambre Filles) adapté pour Home Assistant local.
 - **`dashboards/home_dashboard.yaml`**-  panel-mode wall tablet dashboard: time/date, scene switcher (Cozy / Gameboard / Cooking / Lights On), electricity price timeline, media player card, car status tile, and an all-lights toggle.
 - **`dashboards/garage_dashboard.yaml`**-  matching wall tablet dashboard for the garage: outdoor light toggles and a custom heat pump climate card with a vertical temperature slider.
 - **`dashboards/mobile_remote.yaml`**-  phone-friendly dashboard: all-lights toggle, live soil-moisture/irrigation status card, manual water valve override, and the irrigation threshold slider.
