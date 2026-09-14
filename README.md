@@ -1,8 +1,16 @@
-# Home Assistant Dashboard
+# Home Assistant Dashboard — Adaptation Locale
 
-Custom Home Assistant dashboards designed for the [Shelly Wall Display X2i](https://lazyadmin.nl/smart-home/shelly-wall-display-x2i-review/)-  a wall-mounted tablet dashboard, a garage dashboard with a custom heat pump climate card, and a mobile remote for monitoring irrigation on the go. The repo also includes the automations behind the dashboards: lux-based lighting, a weather-driven garden irrigation system, and a rain-aware robot mower scheduler.
+> [!NOTE]
+> **Adaptation personnelle & locale**  
+> Ce dépôt est un fork du travail de [ruudmens/home-assistant-dashboard](https://github.com/ruudmens/home-assistant-dashboard), adapté sur-mesure pour mon instance Home Assistant locale.
+> 
+> 🔒 **Sécurité et Confidentialité** :  
+> Aucune clé d'API, mot de passe, token, information d'identification ou donnée personnelle n'est partagée dans ce dépôt. Toutes les entités et configurations sensibles sont anonymisées ou gérées via des secrets locaux non versionnés.
+
+Custom Home Assistant dashboards designed for the [Shelly Wall Display X2i](https://lazyadmin.nl/smart-home/shelly-wall-display-x2i-review/) — a wall-mounted tablet dashboard, a garage dashboard with a custom heat pump climate card, and a mobile remote for monitoring irrigation on the go. The repo also includes the automations behind the dashboards: lux-based lighting, a weather-driven garden irrigation system, and a rain-aware robot mower scheduler.
 
 Everything is cleaned up and anonymized with placeholder entity IDs. Fork it, replace the placeholders with your own entities, and adapt it to your setup.
+
 
 The design is based on the work from [Handj on Dribbble](https://dribbble.com/shots/20757344-Smart-Home-Concept-Design-originality).
 

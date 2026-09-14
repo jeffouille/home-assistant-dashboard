@@ -1,2 +1,22 @@
+# Home Assistant secrets
 secrets.yaml
+*secrets*.yaml
+*.secret
+
+# API keys, tokens & credentials
+*.env
+.env*
+*.key
+*.pem
+*.token
+*.pfx
+*.crt
+id_rsa*
+id_ed25519*
+
+# OS & IDE metadata
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
